@@ -14,3 +14,6 @@ The dataset used for this project consists of a collection of tweets labeled as 
 2. **Feature Extraction**: The preprocessed text is transformed into numerical features suitable for machine learning algorithms. 
 3. **Model Training**: Various machine learning models using a neural network architecture are trained on the extracted features to classify tweets as disaster or non-disaster.
 4. **Evaluation**: The trained models are evaluated using metrics such as accuracy, precision, recall, and F1-score to assess their performance in predicting tweet classifications.
+
+## Link
+View the Jupyter notebook [here](https://github.com/mikemiller97/disaster-prediction/blob/main/nlp_disaster_prediction.ipynb) on GitHub to explore the project code and view my results.
